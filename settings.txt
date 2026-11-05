@@ -1,0 +1,4 @@
+root: C:\Users\brock\Downloads\stakeout-search 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
